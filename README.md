@@ -16,6 +16,6 @@ For each column the following statistics - if relevant for the column type - are
 * **Text analysis** learn about categories (Uppercase, Space), scripts (Latin, Cyrillic) and blocks (ASCII) of text data.
 * **File and Image analysis** extract file sizes, creation dates and dimensions and scan for truncated images or those containing EXIF information.
 
-INSTALL IT BY :-
+## INSTALL IT BY :-
 
 `pip install pandas_profiling`
