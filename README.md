@@ -2,7 +2,7 @@
 This repository shows the use of module pandas_profiling to automate the work for Exploratory Data Analysis.
 
 ### About Pandas_Profiling
-It generates profile reports from a pandas `DataFrame1. The pandas `df.describe()` function is great but a little basic for serious exploratory data analysis. `pandas_profiling` extends the pandas DataFrame with `df.profile_report()` for quick data analysis.
+It generates profile reports from a pandas `DataFrame`. The pandas `df.describe()` function is great but a little basic for serious exploratory data analysis. `pandas_profiling` extends the pandas DataFrame with `df.profile_report()` for quick data analysis.
 
 For each column the following statistics - if relevant for the column type - are presented in an interactive HTML report:
 * **Type inference**: detect the types of columns in a dataframe.
