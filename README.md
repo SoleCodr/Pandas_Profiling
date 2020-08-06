@@ -1,6 +1,6 @@
 # Pandas_Profiling
 This repository shows the use of module pandas_profiling to automate the work for Exploratory Data Analysis.
-
+To view notebook with rendered open this <a href = "https://nbviewer.jupyter.org/github/SoleCodr/Pandas_Profiling/blob/583af9f8dba19575905771b5ba62db5c9221c9c7/Pandas_profiling.ipynb"> Noteook </a>
 ### About Pandas_Profiling
 It generates profile reports from a pandas `DataFrame`. The pandas `df.describe()` function is great but a little basic for serious exploratory data analysis. `pandas_profiling` extends the pandas DataFrame with `df.profile_report()` for quick data analysis.
 
